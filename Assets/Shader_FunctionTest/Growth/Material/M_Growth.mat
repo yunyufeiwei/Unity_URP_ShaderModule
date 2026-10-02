@@ -72,7 +72,7 @@ Material:
     - _GrouMin1: 0
     - _Grow1: 0
     - _GrowMax1: 0.9176471
-    - _GrowthValue: 0.89
+    - _GrowthValue: 0.08
     - _MaxGrowth: 1
     - _MinGrowth: 0.65
     - _NormalScale: 1
