@@ -44,3 +44,5 @@ Gerstner的波动方程，在尺寸较小的模型上需要特别注意参数的
 ![面片阴影](ShootImage/ShadowPlanar.png)  
 
 ![平面算法](ShootImage/uv图形算法.png)  
+
+![草地交互](ShootImage/草地交互.gif)  
